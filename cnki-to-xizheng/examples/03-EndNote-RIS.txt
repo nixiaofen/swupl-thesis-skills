@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - 刘俊海
+TI  - 论股权平等原则
+JO  - 法学杂志
+PY  - 2008
+VL  - 29
+IS  - 3
+SP  - 32
+EP  - 36
+
+TY  - JOUR
+AU  - 赵磊
+TI  - 公司自治的限度
+JO  - 法学杂志
+PY  - 2014
+IS  - 10
+SP  - 48
+EP  - 56
